@@ -57,7 +57,7 @@ Crowdera Foundation was built with a "Performance-First, Wow-Second" philosophy.
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) to view the application.
+4. Open [https://crowdera-foundation.vercel.app/](https://crowdera-foundation.vercel.app/) to view the application.
 
 ## Responsiveness
 
