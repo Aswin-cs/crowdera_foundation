@@ -59,6 +59,10 @@ Crowdera Foundation was built with a "Performance-First, Wow-Second" philosophy.
 
 4. Open [https://crowdera-foundation.vercel.app/](https://crowdera-foundation.vercel.app/) to view the application.
 
+## Hosting Note
+
+- **Performance**: When hosting this application on Vercel (Free/Hobby Tier), users may occasionally experience a slight initial delay in component loading or dynamic data fetching. This is typically due to serverless function cold starts and resource limitations inherent to the free tier, and is not a limitation of the application architecture itself.
+
 ## Responsiveness
 
 The platform is fully optimized for all screen sizes:
